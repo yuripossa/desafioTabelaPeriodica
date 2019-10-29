@@ -1,0 +1,128 @@
+header{
+    text-align: center;
+    font-family: Rockwell;
+    color: #1A4267;
+    font-size: 30;
+}
+body{
+    background-color: #F7F7F7;
+}
+table{
+    text-align: center;
+	font-family: Rockwell;
+}
+tr#Num,tr#Ele{
+    font-size: 11px;
+    text-align: center;
+}
+th{
+    font-size: 25px;
+}
+tr{
+    height: 20px;
+    
+}
+.col{
+    font-weight: bold;
+    margin-top: 50px;
+    font-size: 25px;
+    color: #1A4267;
+}
+.Hidro, .Oxi, .Nitr{
+	    
+    color: #0065EF;
+    background-color: #67FECA;
+    
+}
+.Alc{
+	background-color: #3E93FE;
+    color: #1A4267;
+
+}
+.Ter{
+    background-color: #04C8FD;
+    color: #1A4267 ;
+}
+.Outr{
+   background-color: #AEFEA3;
+   color: #1A4267 ; 
+}
+.Trans{
+   background-color: #FEE300;
+   color: #1A4267 ; 
+}
+.Semi{
+   background-color: #03B134;
+   color: #1A4267 ; 
+}
+.Lant{
+   background-color: #FD705D;
+   color: #1A4267 ; 
+}
+.Lat{
+   font-size: 30;
+     
+    color: #1A4267; 
+}
+.Act{
+   background-color: #E74443;
+   color: #1A4267 ; 
+}
+.Mer{
+   background-color: #FEE300;
+   color: #F40300 ; 
+}
+.Clo,.Flu{
+    background-color: #E9E955;
+    color: #0065EF;
+}
+.Brom{
+    background-color: #E9E955;
+    color: #F40300;
+}
+.Halo{
+    background-color: #E9E955;
+    color: #1A4267;
+}
+.Amet{
+	    
+    color: #1A4267;
+    background-color: #67FECA;
+    
+}
+.Nobre{
+    color: #0065EF;
+    background-color: #A5C4DE;   
+}
+td{
+    width: 72px;
+}
+.lat{
+	text-align: left;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+img{
+    width: 250px;
+    height: 200px;
+}
+section#img{
+    text-align: center;
+    margin-top:50px;
+}
+section#img p{
+    margin: 25px 400px;
+    text-align: justify;
+    font-size: 20;
+}
+input#butao{
+    color: white;
+    background-color: steelblue;
+    border-style:solid;
+    border-color: lightsteelblue;
+    height: 30px;
+    width: 100px;
+    
+}
